@@ -3,6 +3,7 @@
 🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
 ---
+![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
 # 📊 Project Title: [Your Project Name]  
 Author: [Your Name]  
