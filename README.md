@@ -112,6 +112,7 @@ Table 2: Sales Transactions
 | Sale_Date      | DATE     | Date of transaction |  
 
 
+📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
 
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
