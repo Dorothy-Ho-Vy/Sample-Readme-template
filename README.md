@@ -5,6 +5,8 @@
 ---
 ![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
+Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
+
 # 📊 Project Title: [Your Project Name]  
 Author: [Your Name]  
 Date: YYYY-MM-DD  
