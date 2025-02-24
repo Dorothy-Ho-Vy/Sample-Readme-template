@@ -28,10 +28,14 @@ Tools Used: SQL/ Power BI/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-Provide a brief introduction to the project. Define the problem statement and why it is important.  
+- Provide a brief introduction to the project. Define the problem statement and why it is important.
+- Write in bullet point format
 
  _Example:_
-> This project analyzes sales trends and inventory control using SQL and Power BI. The objective is to help businesses optimize stock levels, improve demand forecasting, and reduce costs.  
+ 
+ This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
+ - optimize stock levels & improve demand forecasting
+ - reduce costs.  
 
 ### 👤 Who is this project for?  
 
