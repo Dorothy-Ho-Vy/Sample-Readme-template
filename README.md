@@ -28,14 +28,15 @@ Tools Used: SQL/ Power BI/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
+- Provide a brief introduction to the project. Define the problem statement/ business question that this project will show and why it is important.
 - Write in bullet point format
 
  _Example:_
- 
+
  This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
- - optimize stock levels & improve demand forecasting
- - reduce costs.  
+✔️ Identify high-demand products and sales trends.  
+✔️ Optimize inventory levels to prevent overstocking or stockouts.  
+✔️ Provide actionable insights through Power BI dashboards.  
 
 ### 👤 Who is this project for?  
 
@@ -46,25 +47,6 @@ Mention who might benefit from this project
 ✔️ Data analysts & business analysts  
 ✔️ Supply chain managers & inventory controllers  
 ✔️ Decision-makers & stakeholders  
-
-###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
-
- _Example:_
-
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
-
-### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
-
- _Example:_
-
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
 
 ---
 
@@ -84,7 +66,7 @@ Mention how many tables are in the dataset.
 
 Table 1: Products Table  
 
-👉🏻 Insert a screenshot of table schema 
+👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
 
  _Example:_
 
@@ -99,7 +81,7 @@ Table 1: Products Table
 
 Table 2: Sales Transactions  
 
-👉🏻 Insert a screenshot of table schema 
+👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
 
 
  _Example:_
@@ -136,7 +118,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 ## ⚒️ Main Process
 
-1️⃣ Data Cleaning & Preprocessing  
+1️⃣ Data Cleaning & Preprocessing 
 2️⃣ Exploratory Data Analysis (EDA)  
 3️⃣ SQL/ Python Analysis 
 
@@ -159,21 +141,21 @@ Explain the step-by-step approach taken to solve the problem.
 👉🏻 Insert Power BI dashboard screenshots here  
 
 📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
+- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 2️⃣ Dashboard 2 Preview  
 👉🏻 Insert Power BI dashboard screenshots here
 
 📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
+- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 3️⃣ Dashboard 3 Preview  
 👉🏻 Insert Power BI dashboard screenshots here  
 
 📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
+- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
 ---
