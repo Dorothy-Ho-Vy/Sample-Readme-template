@@ -96,6 +96,14 @@ Table 2: Sales Transactions
 
 📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
 
+<details>
+<summary>Click to toggle</summary>
+
+This content is hidden by default and will expand/collapse when clicked.
+
+You can add more details here, like code blocks, lists, or images.
+</details>
+
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
