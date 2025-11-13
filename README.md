@@ -7,7 +7,18 @@
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
-# 📊 Project Title: [Your Project Name]  
+
+# 📊 Your Project Name [ Business question + Domain + Tools ]  
+
+ _Example:_
+ _Analyze & Discover the User Churnsinsight of Databel – a Telecomproviders| SQL & PowerBI_
+ 
+_+ Business question: The core problems/ the core questions that this project solves/ answers -> User Churn Analysis_
+
+_+ Domain: Domain/ Industry that this projects focus on --> a Telecomproviders_
+
+**_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
+
 Author: [Your Name]  
 Date: YYYY-MM-DD  
 Tools Used: SQL/ Power BI/ Python  
@@ -38,6 +49,11 @@ Tools Used: SQL/ Power BI/ Python
 ✔️ Optimize inventory levels to prevent overstocking or stockouts.  
 ✔️ Provide actionable insights through Power BI dashboards.  
 
+
+**_📌You need to provide the context in a clearcut way_**
+
+**_📌Keep your language in this part simple and relatable. Ditch the jargon and speak in terms your audience uses every day. Focus on the practical applications and business value. Show them how the insights can directly impact decision-making and drive success_**
+
 ### 👤 Who is this project for?  
 
 Mention who might benefit from this project 
@@ -60,7 +76,7 @@ Mention who might benefit from this project
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+Mention how many tables are in the dataset.  Only mention tables that you actually used from the entire dataset. 
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
@@ -94,7 +110,7 @@ Table 2: Sales Transactions
 | Sale_Date      | DATE     | Date of transaction |  
 
 
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
+**_📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle_**
 
 <details>
 <summary>Click to toggle</summary>
@@ -122,9 +138,12 @@ Explain the step-by-step approach taken to solve the problem.
 3️⃣ Ideate  
 4️⃣ Prototype and review  
 
+**_📌Use Canva/ Powerpoint to change the format of your Design thinking table, making it more visually pleasant_**
 ---
 
 ## ⚒️ Main Process
+
+**_📌If your project involves SQL as 1st part of data preprocessing, do this part, or else you can skip this part and jump directly into the Visualization part_**
 
 1️⃣ Data Cleaning & Preprocessing 
 2️⃣ Exploratory Data Analysis (EDA)  
@@ -176,3 +195,6 @@ Explain the step-by-step approach taken to solve the problem.
 ✔️ Recommendation 1  
 ✔️ Recommendation 2  
 ✔️ Recommendation 3
+
+**_📌Remember to summarize the most core insights/ observations you extract from the entire projects. 
+ Recap ONLY key actions/ recommendations. DO NOT copy paste everything above_**
