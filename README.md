@@ -19,10 +19,6 @@ _+ Domain: Domain/ Industry that this projects focus on --> a Telecomproviders_
 
 **_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
 
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
-
 ---
 
 ## 📑 Table of Contents  
@@ -75,11 +71,8 @@ Mention who might benefit from this project
 
 ### 📊 Data Structure & Relationships  
 
-#### 1️⃣ Tables Used:  
+#### 1️⃣ Table Schema & Data Snapshot 
 Mention how many tables are in the dataset.  Only mention tables that you actually used from the entire dataset. 
-
-#### 2️⃣ Table Schema & Data Snapshot  
-
 Table 1: Products Table  
 
 👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
@@ -92,7 +85,6 @@ Table 1: Products Table
 | Name        | TEXT     | Product name |  
 | Category    | TEXT     | Product category |  
 | Price       | FLOAT    | Price per unit |  
-
 
 
 Table 2: Sales Transactions  
@@ -120,9 +112,7 @@ This content is hidden by default and will expand/collapse when clicked.
 You can add more details here, like code blocks, lists, or images.
 </details>
 
-#### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
-
+#### 🥰3️⃣ Data Relationships:  
 👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
 
 ---
